@@ -1,4 +1,9 @@
-
+---
+title: 'Module 05: Analyze and Map a Multi-Stage Intrusion'
+layout: default
+nav_order: 2
+has_children: true
+---
 
 # Exercise 05: Analyze and Map a Multi-Stage Intrusion
 
@@ -43,3 +48,4 @@
 
 
 ### **Estimated exercise time (minutes) for a student: 50 minutes**
+
