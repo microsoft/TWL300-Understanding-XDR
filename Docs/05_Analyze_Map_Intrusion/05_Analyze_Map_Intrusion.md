@@ -1,7 +1,7 @@
 ---
 title: 'Exercise 05: Analyze and Map a Multi-Stage Intrusion'
 layout: default
-nav_order: 2
+nav_order: 7
 has_children: true
 ---
 
