@@ -8,7 +8,7 @@ has_children: true
 
 # Exercise 00: Build the environment
 
-## Required Accounts & Permissions 
+## Required accounts and permissions 
 
 - Active Azure subscription is mandatory. 
 
@@ -24,7 +24,7 @@ has_children: true
 
 - Security Administrator or Global Administrator if tenant-level security configurations need to be changed. 
 
-## Licensing and Environment
+## Licensing and environment
 
 - An active Microsoft 365 tenant with security.microsoft.com access. 
 
@@ -36,7 +36,7 @@ has_children: true
 
 - At least 1-2 test users, mailboxes, and onboarded devices (Windows 10/11/Server) to services MDE, MDI, MDO and MDCA for real telemetry.
 
-## Roles & Permissions 
+## Roles and permissions 
 
 - Lab environment: Global Admin role for the lab 
 
